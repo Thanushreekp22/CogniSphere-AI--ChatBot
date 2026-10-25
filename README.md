@@ -1,13 +1,14 @@
 # 🌐 CogniSphere AI
 
-CogniSphere AI is a full-stack MERN chatbot application featuring AI personas,
-multi-threaded conversations, and debate-style interactions using Groq LLaMA models.
+CogniSphere AI is a full-stack MERN chatbot application with AI personas,
+conversation threads, and image analysis using Groq models.
 
 ## 🚀 Key Features
 - AI-powered chatbot with multiple personas
-- Debate mode with AI vs AI discussions
 - Multi-threaded chat management
-- Persistent conversation memory
+- Image upload and image-based responses
+- Voice input
+- Configurable response word limits
 - Secure authentication using JWT
 
 ## 🛠 Tech Stack
