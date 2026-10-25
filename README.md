@@ -20,23 +20,6 @@ multi-threaded conversations, and debate-style interactions using Groq LLaMA mod
 🌐 **Frontend:** https://cogni-sphere-ai-chat-bot.vercel.app  
 📡 **Backend API:** https://cognisphere-ai-chatbot.onrender.com
 
-## 📸 Screenshots
-
-### Login & Authentication
-![Login Page](Snapshots/LoginPage.png)
-
-### Chat Interface with AI Personalities
-![Chat Window](Snapshots/ChatWindow.png)
-
-### AI Debate Mode
-![Debate Mode](Snapshots/Debate%20Page.png)
-
-### Image Analysis & Personality Selection
-![Image and Personality AI](Snapshots/Image%20and%20Personality%20AI.png)
-
-### Personal Knowledge Base
-![Personal Knowledge Base](Snapshots/Person%20KB.png)
-
 ## 📂 Documentation
 For detailed architecture, API routes, security, and implementation details:  
 📘 **[PROJECT_DOCUMENTATION.md](PROJECT_DOCUMENTATION.md)**
@@ -52,5 +35,4 @@ GitHub: [@Thanushreekp22](https://github.com/Thanushreekp22)
 ⭐ **Star this repository if you find it helpful!**
 
 </div>
-
 
