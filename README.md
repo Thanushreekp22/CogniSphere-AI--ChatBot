@@ -16,9 +16,17 @@ multi-threaded conversations, and debate-style interactions using Groq LLaMA mod
 **Database:** MongoDB  
 **AI:** Groq API (LLaMA models)
 
-## 🔗 Live Demo
-🌐 **Frontend:** https://cogni-sphere-ai-chat-bot.vercel.app  
-📡 **Backend API:** https://cognisphere-ai-chatbot.onrender.com
+## 🚧 Deployment Status
+
+This project is not deployed yet. It currently runs locally during development.
+
+Use the deployment guide in [DEPLOYMENT.md](DEPLOYMENT.md) when you are ready
+to deploy the frontend and backend.
+
+### Local development
+
+**Frontend:** `http://localhost:5173`  
+**Backend API:** `http://localhost:5000`
 
 ## 📂 Documentation
 For detailed architecture, API routes, security, and implementation details:  
@@ -35,4 +43,3 @@ GitHub: [@Thanushreekp22](https://github.com/Thanushreekp22)
 ⭐ **Star this repository if you find it helpful!**
 
 </div>
-
